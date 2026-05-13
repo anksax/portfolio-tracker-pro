@@ -24,6 +24,21 @@ All data stays **100% on your device** in the browser's `localStorage`.
 
 ---
 
+## 💡 Why Portfolio Tracker Pro?
+
+Most retail portfolio trackers:
+- require cloud sync
+- collect sensitive financial data
+- hide advanced analytics behind subscriptions
+
+Portfolio Tracker Pro was built as a fully local-first alternative where:
+- data never leaves the browser
+- no account is required
+- users retain complete ownership of their financial information
+
+
+---
+
 ## 🚀 Quick Start
 
 > **No install required.** This is a pure HTML/CSS/JS app — just open `index.html` in your browser.
@@ -96,6 +111,24 @@ PRs welcome! Please:
 - Keep the local-first philosophy — no mandatory server calls
 - Do not hardcode any API keys
 - Follow the existing dark-mode design system (CSS variables in `style.css`)
+
+---
+
+## 🌐 Live Demo
+
+https://anksax.github.io/portfolio-tracker-pro/
+
+---
+
+## 🛠 Tech Stack
+
+- Vanilla JavaScript
+- HTML5 + CSS3
+- Chart.js
+- Browser localStorage/sessionStorage
+- SubtleCrypto API
+- AMFI Data APIs
+- IndianAPI (optional live stock prices)
 
 ---
 
