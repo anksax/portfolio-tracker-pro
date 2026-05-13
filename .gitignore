@@ -1,0 +1,20 @@
+# API keys / personal config — NEVER commit this
+config.js
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+
+# Node (if you ever add build tools)
+node_modules/
+npm-debug.log*
+
+# Scrap / Context
+out.json
+codebase_context.md
